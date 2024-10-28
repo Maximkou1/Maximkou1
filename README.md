@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Maximkou1 - it's like Maximkou but better
-- 👀 I’m interested in ... later
-- 🌱 I’m currently learning ... later
-- 💞️ I’m looking to collaborate on ... later
-- 📫 How to reach me ... later
-
+- 👋 Hi, I’m Maximkou1 - it's like Maximkou but better
+- 🌱 I’m currently study Fundamental and Computation Linguistics in HSE, Moscow
+- 👀 I’m interested in Machine Learning and NLP
+- 📫 How to reach me: maeremeev@edu.hse.ru
